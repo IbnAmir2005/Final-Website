@@ -60,6 +60,21 @@
 .page-home .navbar{
     background-color: #000;
 }
+@media (max-width:500px){
+    .card-service{
+        width: auto;
+    }
+    /* #try2 img{
+       width: 50px;
+    }
+    #try2 p{
+        width: 200px;
+    } */
+    .mt-5{
+        min-width: auto;
+    }
+
+}
 /*Amir*/
 
 :root {
