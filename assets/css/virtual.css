@@ -60,6 +60,14 @@
 .page-home .navbar{
     background-color: #000;
 }
+.try3{
+        width: 100px;
+        font-size: 15px;
+        padding: 0px 0px;
+}
+.caption{
+    height: 200px;
+}
 @media (max-width:500px){
     .card-service{
         width: auto;
@@ -73,7 +81,9 @@
     .mt-5{
         min-width: auto;
     }
+    .try3{
 
+    }
 }
 /*Amir*/
 
@@ -183,7 +193,7 @@ a:hover, a:active {
 */
 .btn-theme {
     padding: 10px 30px;
-    margin: 5px;
+    margin: 0px;
     height: unset;
     background-color: #747474;
     color: #fff;
@@ -206,8 +216,8 @@ a:hover, a:active {
 }
 
 .btn-theme-outline {
-    padding: 10px 30px;
-    margin: 5px;
+    padding: 1% 3%;
+    margin: 0px 0px;
     height: unset;
     background-color: transparent;
     color: #747474;
