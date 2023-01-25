@@ -46,7 +46,7 @@
     flex-wrap: wrap;
     margin-right: -15px;
     margin-left: -15px;
-    column-gap: 311px;
+    /* column-gap: 311px; */
     min-width: 0px;
 }
 .card-service {
@@ -55,6 +55,7 @@
     background-color: #fff;
     border: 0;
     width: 500px;
+    height: 500px;
     
 }
 .page-home .navbar{
